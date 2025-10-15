@@ -1,3 +1,12 @@
+# Configuration Studies  
+Emperical studies of configurations of real-world systems
+
+- Configurations of large-scale storage systems
+    - [Revisiting Erasure Codes: A Configuration Perspective](https://dl.acm.org/doi/10.1145/3655038.3665951) (HotStorage'24)
+
+- Configurations of databases
+    - [A Study of Database Performance Sensitivity to Experiment Settings](https://www.vldb.org/pvldb/vol15/p1439-wang.pdf) (VLDB'22)
+
 # Configuration Tuning  
 
 - Tuning local storage stack (file systems, etc.)
@@ -7,11 +16,3 @@
     - [Can Modern LLMs Tune and Configure LSM-based Key-Value Stores?](https://dl.acm.org/doi/pdf/10.1145/3655038.3665954) (HotStorage'24)
 
 
-# Configuration Studies  
-Emperical studies of configurations of real-world systems
-
-- Configurations of large-scale storage systems
-    - [Revisiting Erasure Codes: A Configuration Perspective](https://dl.acm.org/doi/10.1145/3655038.3665951) (HotStorage'24)
-
-- Configurations of databases
-    - [A Study of Database Performance Sensitivity to Experiment Settings](https://www.vldb.org/pvldb/vol15/p1439-wang.pdf) (VLDB'22)
