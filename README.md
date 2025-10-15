@@ -3,7 +3,8 @@ Emperical studies of configurations of real-world systems
 
 - Configurations of large-scale storage systems
     - [Revisiting Erasure Codes: A Configuration Perspective](https://dl.acm.org/doi/10.1145/3655038.3665951) (HotStorage'24)
-
+- Configurations of local file systems
+    - [ConfD: Analyzing Configuration Dependencies ofFile Systems for Fun and Profit](https://www.usenix.org/system/files/fast23-mahmud.pdf) (FAST'23)
 - Configurations of databases
     - [A Study of Database Performance Sensitivity to Experiment Settings](https://www.vldb.org/pvldb/vol15/p1439-wang.pdf) (VLDB'22)
 
