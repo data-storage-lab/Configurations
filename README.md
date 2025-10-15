@@ -11,6 +11,7 @@ Emperical studies of configurations of real-world systems
 # Configuration Tuning  
 
 - Tuning local storage stack (file systems, etc.)
+    - [Carver: Finding Important Parameters for Storage System Tuning(https://www.usenix.org/system/files/fast20-cao_zhen.pdf) (FAST'20)
     - [Towards Better Understanding of Black-box Auto-Tuning: A Comparative Analysis for Storage Systems](https://www.usenix.org/system/files/conference/atc18/atc18-cao.pdf) (ATC'18)
  
 - Tuning databases/KV stores 
