@@ -1,7 +1,10 @@
 # Configuration Tuning  
 
-- Tuning local storage systems
+- Tuning local storage stack (file systems, etc.)
     - [Towards Better Understanding of Black-box Auto-Tuning: A Comparative Analysis for Storage Systems](https://www.usenix.org/system/files/conference/atc18/atc18-cao.pdf) (ATC'18)
+ 
+- Tuning databases/KV stores 
+    - [Can Modern LLMs Tune and Configure LSM-based Key-Value Stores?](https://dl.acm.org/doi/pdf/10.1145/3655038.3665954) (HotStorage'24)
 
 
 # Configuration Studies  
